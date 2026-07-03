@@ -11,8 +11,6 @@
 <!-- Link do GIF de Toro Inoue
 https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b651df521c4c077ca87d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f74594f2d656d4273526c6341414141692f746f726f2d746f726f2d696e6f75652e676966 !-->
 
-###
-
 <div align="center">
   
   [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-beatriz-m-2561b52b8/)
@@ -20,54 +18,33 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
   [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584987483984)
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matos617.matos617&"  />
 </div>
 
-###
+# <h1 align="center">Welcome to my GitHub! 👋</h1>
 
-<h1 align="center">Welcome to my GitHub! 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+## :technologist: About Me
 
 Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student focused on Front-End and Python.
 - :books: I'm currently learning JavaScript, Python and Git
 - :dart: Looking por my first internship
 - :computer: Interested in Cybersecurity
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Language and tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,windows)](https://skillicons.dev)
 
-###
+## Featured Projects
+- [ ] Calculator (HTML/CSS/JS)
+- [ ] To-do List
+- [ ] Landing Page
+- [ ] Python Exercises
+- [ ] University Projects
 
-Featured Projects
-- [] Calculator (HTML/CSS/JS)
-- [] To-do List
-- [] Landing Page
-- [] Python Exercises
-- [] University Projects
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## :fire: My Stats :
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matos617&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
----
