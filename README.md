@@ -35,6 +35,7 @@ Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student
 [![I want to learn in the future](https://skillicons.dev/icons?i=ts,angular,vue,selenium,notion,linux)](https://skillicons.dev)
 
 ## Featured Projects
+- [x] [Simple CV page (HTML)](roadmap.sh-frontend-projects/single-page-cv/index.html)
 - [ ] Calculator (HTML/CSS/JS)
 - [ ] To-do List
 - [ ] Landing Page
