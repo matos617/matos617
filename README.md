@@ -24,7 +24,7 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
 
 Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student focused on Front-End and Python.
 - :books: I'm currently learning **JavaScript**, **Python** and **Git**
-- :dart: Looking for my first internship in the Front-end area
+- :dart: Looking for my first internship in the **Front-end** area
 - :computer: Interested in **Software Testing**
 
 ## :hammer_and_wrench: Language and tools
