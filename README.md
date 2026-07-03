@@ -60,7 +60,7 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
 
 <div align="center">
 
-<a href="https://theysaymeow.blogspot.com/2011/11/cute-gif-cat-banner-its-caturday.html"> <img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQmzvkcdGL062I5HGK1NPlMH-5xMyE53DEmyobhuPKxHadake7NL3PuCNiPgW2o3DCa7f3am_CCguGCQkkknO6VEFvYhe-LvMi4lloy2l2vGuTcMoC66meVzPy7vm3NHV2hklPfIfq-o/s1600/aww.gif" alt="Cute cat gif" /> </a>
+[![Sodas](https://64.media.tumblr.com/8443941a485aa600cf082dae93957fad/4f8e568b21771112-41/s400x600/8bcd34d45188c0dc02bf3a6a7fd75c75fedfb762.pnj)](https://www.tumblr.com/pngblog/800104574680743936?source=share)
 
-[![Banner O Love My Cat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrTwZK-9SxoYGf4CH-QFov6xFI7n-5RbhBImZyimJn4LDXRQ2V0gB6l9dgoePXivKCDEP-vgsIziR7M4t1-m7fGIQVSjeUUyGTUTQwwN-6R3WjoFIquS1ILpk3dlXHA88h9QvuprQLXXo/s1600/lovecat.gif)](https://theysaymeow.blogspot.com/2011/11/cute-gif-cat-banner-its-caturday.html)
+
 </div>
