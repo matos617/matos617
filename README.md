@@ -1,6 +1,9 @@
 <div align="center">
 
+<a href="https://www.tumblr.com/ejsmith145/794635702424027136/got-doko-demo-issyo-on-the-brain-so-here-is-my?source=share"><img height="150" src="https://64.media.tumblr.com/a60251b7dfdd423c5a5c02bf57823f80/4fab3c660ed36dbd-b3/s400x600/51f688325dfe6560badb52db57e8c620cbfe5bb9.gifv"  /></a>
+
 <img height="150" src="https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b651df521c4c077ca87d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f74594f2d656d4273526c6341414141692f746f726f2d746f726f2d696e6f75652e676966"  />
+
 </div>
 
 <!-- Link do GIF de Toro Inoue
