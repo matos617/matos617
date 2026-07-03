@@ -27,7 +27,7 @@ Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student
 - :dart: Looking for my first internship in the **Front-end** area
 - :computer: Interested in **Software Testing**
 
-## :hammer_and_wrench: Language and tools
+## :hammer_and_wrench: My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,windows)](https://skillicons.dev)
 
