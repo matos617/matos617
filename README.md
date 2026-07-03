@@ -10,7 +10,7 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
 
 <div align="center">
   
-  [![MMy Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-beatriz-m-2561b52b8/)
+  [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-beatriz-m-2561b52b8/)
   [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattosdelima617@gmail.com)
   [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584987483984)
 </div>
@@ -39,7 +39,7 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,windows)](https://skillicons.dev)
 
 ###
 
