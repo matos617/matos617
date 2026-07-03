@@ -29,10 +29,10 @@ Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student
 
 ## :hammer_and_wrench: Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,gimp,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,windows)](https://skillicons.dev)
 
 ## :calendar: I want to learn:
-[![I want to learn in the future](https://skillicons.dev/icons?i=ty,angular,vue,selenium,notion,linux)](https://skillicons.dev)
+[![I want to learn in the future](https://skillicons.dev/icons?i=ts,angular,vue,selenium,notion,linux)](https://skillicons.dev)
 
 ## Featured Projects
 - [ ] Calculator (HTML/CSS/JS)
