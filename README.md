@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Carla Beatriz Matos from Brazil. I am a university student studying Information Systems.<br><br>- 🔭 I’m working as Front-End<br>- 📚 I'm currently learning JavaScript and Python</p>
+<p align="left">I'm Carla Beatriz Matos from Brazil :brazil:. I am a university student studying Information Systems.<br><br>- 🔭 I’m working as Front-End<br>- 📚 I'm currently learning JavaScript and Python</p>
 
 ###
 
