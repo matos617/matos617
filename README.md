@@ -24,7 +24,7 @@ https://camo.githubusercontent.com/990a018a091d917636129615d027d93c10a0de8a2be7b
 
 ![Information Systems](https://img.shields.io/badge/Graduation-Information_Systems-purple) 
 ![Software Testing](https://img.shields.io/badge/Outside_course-Software_Testing-8A2BE2)
-![freeCodeCamp](https://img.shields.io/badge/free%20Code%20Camp-yellow)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-yellow)
 ![DIO](https://img.shields.io/badge/DIO-blue)
 
 Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student focused on Front-End and Python.
