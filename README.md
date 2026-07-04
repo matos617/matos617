@@ -34,7 +34,7 @@ Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student
 
 ## :hammer_and_wrench: My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode,windows11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vscode)](https://skillicons.dev)
 
 ## :calendar: I Want to Learn
 [![I want to learn in the future](https://skillicons.dev/icons?i=ts,angular,vue,selenium,notion,linux)](https://skillicons.dev)
