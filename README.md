@@ -32,9 +32,9 @@ Hi! I'm Carla Beatriz Matos from Brazil :brazil:, an Information Systems student
 - :dart: Looking for my first internship in the **Front-end** area
 - :computer: Interested in **Software Testing**
 
-## :hammer_and_wrench: My Skills
+## :hammer_and_wrench: Learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
 
 ## :calendar: I Want to Learn
 [![I want to learn in the future](https://skillicons.dev/icons?i=react,ts,angular,vue,selenium,notion,linux)](https://skillicons.dev)
